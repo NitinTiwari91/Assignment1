@@ -1,0 +1,752 @@
+EDMONTON ALBERTA Canada 780 1
+Sassenheim ZUID-HOLLAND Netherlands 071 1
+Eindhoven NOORD-BRABANT Netherlands 040 1
+Arnhem GELDERLAND Netherlands 026 2
+SINGAPORE null Singapore 65 2
+KWAI CHUNG NEW TERRITORIES Hong Kong 2 1
+Piscataway New Jersey United States 732 1
+Vancouver Washington United States 360 1
+Suwanee Georgia United States 678 1
+Addison Texas United States 877 1
+Sunnyvale California United States 408 1
+Laguna Niguel California United States 949 1
+Gahanna Ohio United States 614 1
+Brooklyn New York United States 212 1
+Cincinnati Ohio United States 315 1
+San Diego California United States 858 1
+Milpitas California United States 669 1
+Traverse City Michigan United States 231 1
+Minneapolis Minnesota United States 763 1
+Atlanta Georgia United States 404 1
+Jacksonville Florida United States 904 1
+Chandler Arizona United States 480 1
+Fremont California United States 510 1
+Plano Texas United States 214 1
+New York New York United States 646 1
+Eagan Minnesota United States 651 1
+Kansas City Kansas United States 913 1
+North Fort Myers Florida United States 808 1
+Raleigh North Carolina United States 919 1
+Seattle Washington United States 206 1
+St Pete Beach Florida United States 727 1
+Chicago Illinois United States 312 1
+Rochester New York United States 585 1
+La Jolla California United States 617 1
+Laurel Maryland United States 240 1
+Southaven Mississippi United States 662 1
+Fresno California United States 559 1
+Valhalla New York United States 315 1
+Long Beach California United States 714 1
+Boca Raton Florida United States 561 1
+Gardena California United States 310 1
+Philadelphia Pennsylvania United States 484 1
+Henderson Nevada United States 888 1
+Riverside California United States 951 1
+Richmond Virginia United States 804 1
+Los Gatos California United States 408 1
+SAO PAULO SAO PAULO Brazil 11 1
+GUADALAJARA JALISCO Mexico 33 1
+GARBAGNATE MILANESE MILANO Italy 0 1
+LEICESTER LEICESTERSHIRE United Kingdom 011 1
+MANCHESTER MANCHESTER United Kingdom 016 1
+LONDON LONDON United Kingdom 020 4
+BRAINTREE ESSEX United Kingdom 013 1
+KUALA LUMPUR KUALA LUMPUR Malaysia 3 1
+SEGAMAT JOHOR Malaysia 7 1
+AUBAGNE BOUCHES DU RHONE France 0442 1
+SAINT-PROJET-SAINT-CONSTANT CHARENTE France 0545 1
+Latur Maharashtra India 02382 12
+Pakur Jharkhand India 06435 1
+Udhagamandalam Tamil Nadu India 04232 1
+Himatnagar Gujarat India 02772 8
+Dinajpur West Bengal India 03523 1
+Karimnagar Telangana India 08782 23
+Udaipur Rajasthan India 0294 250
+Chittorgarh Rajasthan India 01472 7
+Barabanki Uttar Pradesh India 05248 6
+Bagalkot Karnataka India 08354 4
+Tripunithura Kerala India 04842 1
+Indore Madhya Pradesh India 0731 1030
+Panvel Maharashtra India 02227 11
+Shillong Meghalaya India 0364 17
+Jaipur Rajasthan India 0141 1640
+Surguja Chhattisgarh India 07772 1
+BBY Maharashtra India 02226 2
+East Singhbhum Jharkhand India 09234 3
+Amreli Gujarat India 02792 6
+Rajpura Punjab India 09216 2
+Thiruvannamalai Tamil Nadu India 08870 3
+Rohtas Bihar India 06184 1
+Bengaluru Karnataka India 08041 9027
+Khammam Telangana India 08742 27
+Kadapa Andhra Pradesh India 09440 33
+Vellore Tamil Nadu India 04162 83
+Margao Goa India 08322 33
+Kottayam Kerala India 04812 121
+Nagapattinam Tamil Nadu India 04364 3
+Naharlagun Arunachal Pradesh India 07122 1
+Nalanda Bihar India 09801 3
+Perambalur Tamil Nadu India 08012 2
+Rohtak Haryana India 01262 30
+Dausa Rajasthan India 09414 3
+Nashik Maharashtra India 02532 512
+Ramanathapuram Tamil Nadu India 09952 6
+Koraput Odisha India 06852 6
+Hyderabad Telangana India 040 5460
+Vishakhapatanam Andhra Pradesh India 08912 4
+Roorkee Uttar Pradesh India 01332 25
+Kalamassery Kerala India 04846 1
+Uttar Dinajpur West Bengal India 09434 9
+Muzaffarpur Bihar India 06212 8
+Jhalawar Rajasthan India 07431 2
+Birbhum West Bengal India 03463 2
+Ankleshwar Gujarat India 02646 79
+Dadra Dadra & Nagar Haveli India 02602 3
+Ranga Reddy District Andhra Pradesh India 03323 2
+Gadag Karnataka India 08372 1
+INDI Karnataka India 08212 2
+Purulia West Bengal India 09734 3
+North 24 Parganas West Bengal India 03325 9
+Samastipur Bihar India 06274 2
+Panchmahal Gujarat India 02676 17
+Mumbai Maharashtra India 022 15825
+Alappuzha Kerala India 04772 96
+Ganjam Odisha India 06802 7
+Modinagar Uttar Pradesh India 01232 4
+Bareilly Uttar Pradesh India 05812 19
+Palghar Maharashtra India 02502 6
+Sonitpur Assam India 03712 3
+Kadi Gujarat India 02764 3
+Goa Goa India 08322 303
+Salem Tamil Nadu India 0427 146
+Karnal Haryana India 01842 57
+Hospet Karnataka India 08394 8
+Beed Maharashtra India 09422 2
+South Arcot Tamil Nadu India 04175 3
+Bhadohi Uttar Pradesh India 05414 29
+Sullia Karnataka India 08257 1
+East Godavari Andhra Pradesh India 08842 56
+Vallabh Vidyanagar Gujarat India 02692 4
+Pathanamthitta Kerala India 04682 22
+Mathura Uttar Pradesh India 05652 20
+Idukki Kerala India 04862 28
+Raniganj West Bengal India 09332 2
+Malleshwaram Karnataka India 08023 1
+Jaunpur Uttar Pradesh India 09415 1
+Jodhpur Rajasthan India 0291 249
+Aizawl Mizoram India 03892 3
+Tiruvallur Tamil Nadu India 04427 22
+Khargone Madhya Pradesh India 07285 1
+Mormugao Goa India 08322 1
+Diu Daman & Diu India 02875 1
+Haryana Haryana India 01244 8
+Uttarpara West Bengal India 09674 1
+Benaulim Goa India 08322 1
+Cuddalore Tamil Nadu India 04142 18
+BALLERY Karnataka India 08395 1
+Dindigul Tamil Nadu India 04512 61
+AHMEDABAD/ GANDHI NA Gujarat India 07927 4
+Daman Daman & Diu India 02602 21
+Varanasi Uttar Pradesh India 0542 118
+Vaishali Bihar India 06224 2
+Korba Chhattisgarh India 09039 3
+Rewa Madhya Pradesh India 07662 4
+Aurangabad Maharashtra India 02402 281
+Suryapet Telangana India 08684 1
+Thekkady Kerala India 04869 1
+Khanna Punjab India 01628 4
+Bahraich Uttar Pradesh India 05322 1
+Chengalpattu Tamil Nadu India 04427 11
+Balasore Odisha India 06782 9
+Gwalior Madhya Pradesh India 07512 54
+Pulwama Jammu & Kashmir India 09906 1
+Mirzapur Uttar Pradesh India 05442 8
+Hoshangabad Madhya Pradesh India 07572 3
+Mahabaleshwar Maharashtra India 02168 6
+Bardhaman West Bengal India 03412 26
+Manesar Haryana India 01244 2
+Udumalpet Tamil Nadu India 04252 2
+Verna Goa India 08326 5
+Mettupalayam Tamil Nadu India 04132 4
+Chapra Bihar India 06152 3
+Sivaganga Tamil Nadu India 09962 3
+Greater Noida Uttar Pradesh India 01202 3
+Vijayawada Andhra Pradesh India 0866 193
+Rajgangpur Odisha India 09338 2
+Sitapur Uttar Pradesh India 01412 1
+BGR Karnataka India 08022 2
+Eluru Andhra Pradesh India 08812 4
+Yamunanagar Haryana India 01732 28
+Miraj Maharashtra India 08971 2
+GANDHI NAGAR Gujarat India 02763 2
+Nalagarh Himachal Pradesh India 01795 4
+NADIAD - GUJARAT Gujarat India 02682 1
+Faridkot Punjab India 01639 1
+Narmada Gujarat India 02646 1
+Palampur Himachal Pradesh India 09418 1
+West Singhbhum Jharkhand India 06582 2
+Thrissur Kerala India 0487 175
+Seraikela Jharkhand India 09334 1
+Coonoor Tamil Nadu India 04232 2
+Mayurbhanj Odisha India 07077 2
+Lucknow Uttar Pradesh India 0522 464
+Mahuva Gujarat India 02844 12
+Guwahati Assam India 0361 139
+Udupi Karnataka India 08202 53
+Rajkot Gujarat India 02812 976
+Madurai Tamil Nadu India 0452 264
+Agartala Tripura India 03812 3
+South Kannada Karnataka India 08202 2
+Una Himachal Pradesh India 09318 6
+Sirsa Haryana India 01666 13
+Jammu & Kashmir Jammu & Kashmir India 01942 1
+Puducherry Puducherry India 0413 187
+Purnia Bihar India 06454 3
+Sirsi Karnataka India 09829 2
+GAJAPATI NAGARAM Andhra Pradesh India 08922 1
+Vadodara Gujarat India 0265 1533
+Osmanabad Maharashtra India 02473 1
+Sidhpur Gujarat India 02767 6
+Howrah West Bengal India 03326 161
+Mandideep Madhya Pradesh India 07480 1
+Sonepat Haryana India 01302 59
+Ratnagiri Maharashtra India 02352 16
+Vasco Da Gama Goa India 08322 9
+Chandauli Uttar Pradesh India 01722 2
+Meerut Uttar Pradesh India 01212 137
+Thoothukudi Tamil Nadu India 04612 54
+Aruppukottai Tamil Nadu India 04562 4
+Rajapalayam Tamil Nadu India 04563 7
+Baddi Himachal Pradesh India 09417 8
+Jhabua Madhya Pradesh India 09479 1
+Ghaziabad Uttar Pradesh India 01204 585
+Navi Mumbai Maharashtra India 02227 1019
+Bikaner Rajasthan India 01512 46
+Bhilwara Rajasthan India 01482 50
+Darbhanga Bihar India 09801 3
+Agra Uttar Pradesh India 05622 216
+Sirohi Rajasthan India 09414 9
+Kanchipuram Tamil Nadu India 04427 145
+Sattari Goa India 08322 2
+Jabalpur Madhya Pradesh India 07612 68
+Kasargod Kerala India 04994 16
+Dakshin Dinajpur West Bengal India 03523 1
+Kamrup Assam India 03612 16
+Kochi Kerala India 0484 693
+Annamalainagar Tamil Nadu India 04144 1
+NAG Maharashtra India 07126 1
+VASHI - NAVI MUMBAI Maharashtra India 02227 1
+South 24 Parganas West Bengal India 03324 22
+Phagwara Punjab India 01824 8
+Umaria Madhya Pradesh India 07627 1
+- - Rajasthan India 07264 8
+Makrana Rajasthan India 01588 1
+Veraval Gujarat India 02876 11
+Dungarpur Rajasthan India 02964 2
+Hanumangarh Rajasthan India 01412 1
+CHHOTA-UDEPUR Gujarat India 02667 1
+ULHASNAGAR Maharashtra India 02512 1
+Asansol West Bengal India 03412 3
+Belgaum Karnataka India 0831 129
+Ranipet Tamil Nadu India 04172 8
+Sambalpur Odisha India 06632 17
+Chennai Tamil Nadu India 044 7184
+Sagar Madhya Pradesh India 07582 7
+Etah Uttar Pradesh India 09457 2
+Tiruvalla Kerala India 04692 7
+Karur Tamil Nadu India 04324 60
+Betul Madhya Pradesh India 07141 3
+Rourkela Odisha India 06612 25
+Bhusaval Maharashtra India 07173 1
+Theni Tamil Nadu India 04546 6
+GUJ Gujarat India 02827 1
+Tadepalligudem Andhra Pradesh India 09848 1
+Bastar Chhattisgarh India 07782 2
+Periyar Tamil Nadu India 09150 13
+Gondia Maharashtra India 07182 3
+Dharuhera Haryana India 01493 1
+KANCHIKOCHERLA Andhra Pradesh India 09441 1
+Vidisha Madhya Pradesh India 09827 2
+Nadiad Gujarat India 02682 18
+Dibrugarh Assam India 03732 11
+Anantapur Andhra Pradesh India 08554 40
+Pithampur Delhi India 07292 4
+Rajasthan Rajasthan India 01412 4
+Pernem Goa India 08327 1
+Churu Rajasthan India 01567 4
+Bharatpur Rajasthan India 05644 6
+Ranchi Jharkhand India 06512 106
+Chittoor Andhra Pradesh India 08772 63
+Himachal Pradesh Himachal Pradesh India 01976 1
+Mount Abu Rajasthan India 02974 2
+Hazaribag Jharkhand India 06546 6
+Thanjavur Tamil Nadu India 04362 32
+Parwanoo Himachal Pradesh India 01792 3
+Hubli Karnataka India 0836 107
+Ambedkar Nagar Uttar Pradesh India 09899 1
+Tirupur Tamil Nadu India 04212 240
+Ahmedabad Gujarat India 079 4724
+Guindy Tamil Nadu India 04422 1
+Erode Tamil Nadu India 0424 98
+Nandesari Gujarat India 02653 2
+Haldwani Uttarakhand India 05946 5
+ANDHERI Maharashtra India 02226 1
+Dewas Madhya Pradesh India 07272 32
+Mohali Punjab India 01725 146
+Bhawanipatna Odisha India 06670 1
+Srinagar Jammu & Kashmir India 01942 29
+Rupnagar Punjab India 09872 16
+KALUJHANDA Himachal Pradesh India 01722 1
+Darjeeling West Bengal India 03532 30
+Nizamabad Telangana India 08462 19
+Haldia West Bengal India 01246 3
+Nellore Andhra Pradesh India 0861 61
+Kheda Gujarat India 02692 32
+Karnataka Karnataka India 08182 26
+Bulandshahr Uttar Pradesh India 05732 9
+Solan Himachal Pradesh India 01792 39
+Kishangarh Rajasthan India 09829 3
+Ambala Haryana India 01712 125
+Noida Uttar Pradesh India 01204 1284
+Lohardaga Jharkhand India 02591 1
+Begusarai Bihar India 06243 5
+BIRATI West Bengal India 03325 1
+Mansa Punjab India 09988 1
+Bhuj Gujarat India 02832 24
+Moradabad Uttar Pradesh India 05912 85
+ANEKAL TK Karnataka India 09845 1
+Warangal Telangana India 0870 47
+Bardez Goa India 08322 12
+Dahod Gujarat India 02673 2
+Unjha Gujarat India 02767 7
+Kovilpatti Tamil Nadu India 04632 3
+Kalyan Maharashtra India 0982 2
+Palai Kerala India 04822 2
+Sivasagar Assam India 09954 2
+Alwar Rajasthan India 01442 58
+Kullu Himachal Pradesh India 01902 17
+SANGRUL Punjab India 01676 1
+Valsad Gujarat India 02602 93
+Allahabad Uttar Pradesh India 0532 64
+Kharsawa Jharkhand India 06591 1
+Assam Assam India 03612 1
+Raichur Karnataka India 08532 9
+Rishikesh Uttarakhand India 01352 5
+Mahendragarh Haryana India 09466 2
+Auroville Tamil Nadu India 04132 3
+Tenkasi Tamil Nadu India 09994 1
+Jhansi Uttar Pradesh India 09455 4
+Tiruvannamalai Tamil Nadu India 04175 3
+SUBHASH NAGAR Karnataka India 09886 1
+Sangareddy Telangana India 09440 1
+Vaniyambadi Tamil Nadu India 04174 2
+Hoshiarpur Punjab India 01882 26
+Davangere Karnataka India 08192 3
+Dhenkanal Odisha India 06762 1
+Mahe Puducherry India 02762 1
+Surandranager Gujarat India 02752 1
+Bijnor Uttar Pradesh India 09412 3
+Kangra Himachal Pradesh India 01892 18
+Jalgaon Maharashtra India 02572 62
+Pollachi Tamil Nadu India 04259 10
+Kerala Kerala India 04952 5
+Tanuku Andhra Pradesh India 08819 4
+Sabarkantha Gujarat India 02770 16
+Imphal Manipur India 03852 11
+BEGALURE Karnataka India 08041 1
+Sriganganagar Rajasthan India 01542 7
+Gaya Bihar India 06312 1
+Sirmaur Himachal Pradesh India 01799 7
+Raipur Chhattisgarh India 07712 180
+Bhandara Maharashtra India 09422 2
+Dhuri Punjab India 09872 2
+Balangir Odisha India 06652 3
+Punjab Punjab India 01871 1
+North Cachar Hills Assam India 03842 1
+Kharagpur West Bengal India 03222 5
+Mangalore Karnataka India 08242 243
+Anand Gujarat India 02692 108
+Munnar Kerala India 04865 1
+Faizabad Uttar Pradesh India 05278 4
+Hoskote Karnataka India 08039 1
+Rayagada Odisha India 06857 4
+Junagadh Gujarat India 02852 32
+Neyveli Tamil Nadu India 04142 2
+Nadia West Bengal India 03325 7
+ Medchal Telangana India 04029 1
+Saharanpur Uttar Pradesh India 01322 20
+New Delhi Delhi India 011 12571
+null null India 09562 21
+NEAR TOWN HALL ,ERNAKULAM NORT Kerala India 04842 1
+Mandsaur Madhya Pradesh India 07422 10
+Mehsana Gujarat India 02762 73
+NM Maharashtra India 02227 1
+Tonk Rajasthan India 01412 4
+Kumbakonam Tamil Nadu India 04352 5
+Bhopal Madhya Pradesh India 0755 384
+POLAVARAM Andhra Pradesh India 09866 1
+Delhi Delhi India 01122 92
+Tiruvarur Tamil Nadu India 09443 1
+Madhya Pradesh Madhya Pradesh India 07680 4
+Godhra Gujarat India 02852 3
+Port Blair Andaman & Nicobar Islands India 03192 15
+Kolar Karnataka India 08152 18
+Panaji Goa India 08322 76
+KODAI KANAL Tamil Nadu India 04542 1
+Azamgarh Uttar Pradesh India 09389 3
+Shencottah Tamil Nadu India 04633 1
+Chandrapur Maharashtra India 07172 7
+Nalasopara Maharashtra India 09198 1
+Namakkal Tamil Nadu India 04286 25
+Haveri Karnataka India 08375 3
+Yavatmal Maharashtra India 09763 6
+Udhampur Jammu & Kashmir India 01991 3
+Hamirpur Uttar Pradesh India 09882 3
+SHANKARANARAYANA Karnataka India 09901 1
+Jaisalmer Rajasthan India 02992 12
+Patna Bihar India 0612 184
+Raigad Maharashtra India 02227 97
+Leh Jammu & Kashmir India 01982 5
+KODUVALLY Kerala India 04952 1
+West Godavari Andhra Pradesh India 08816 23
+Khandwa Madhya Pradesh India 07332 1
+Dohad Gujarat India 02673 1
+Kolhapur Maharashtra India 02312 243
+Pilani Rajasthan India 01596 2
+Balaghat Madhya Pradesh India 09827 1
+Budaun Uttar Pradesh India 08045 2
+Dimapur Nagaland India 03862 1
+Jetpur Gujarat India 02823 1
+Firozabad Uttar Pradesh India 09837 7
+Bhavnagar Gujarat India 02782 127
+Burahanpur Madhya Pradesh India 07325 2
+Kakinada Andhra Pradesh India 0884 21
+KARKALA Karnataka India 08258 1
+Shimla Himachal Pradesh India 01772 43
+Haridwar Uttarakhand India 01334 55
+Porvorim Goa India 08322 6
+Gorakhpur Uttar Pradesh India 0551 20
+Farrukhabad Uttar Pradesh India 05692 4
+Ratlam Madhya Pradesh India 07412 11
+Rajsamand Rajasthan India 09649 2
+Gandhidham Gujarat India 02836 60
+Bhimavaram Andhra Pradesh India 08816 4
+Amravati Maharashtra India 07212 24
+Gautam Buddha Nagar Uttar Pradesh India 01204 16
+Muktsar Punjab India 01633 6
+Kurnool Andhra Pradesh India 08518 37
+Pathankot Punjab India 01862 4
+Tirunelveli Tamil Nadu India 04622 80
+Thane Maharashtra India 02225 1375
+Angul Odisha India 08895 1
+Fatehgarh Sahib Punjab India 01763 1
+Sindhudurg Maharashtra India 08322 1
+Sivakasi Tamil Nadu India 04562 40
+Mannadipet Commune Puducherry India 04132 1
+Virudhunagar Tamil Nadu India 04563 18
+Mandya Karnataka India 08232 11
+Bidar Karnataka India 08482 7
+Gondal Gujarat India 02825 5
+Washim Maharashtra India 07251 1
+Hooghly West Bengal India 03326 37
+HATTI Karnataka India 02942 1
+KUKATPALLE Andhra Pradesh India 04023 1
+Jalna Maharashtra India 02482 62
+Nalgonda Telangana India 09848 18
+Berhampur Odisha India 06802 3
+Karwar Karnataka India 08382 2
+Siliguri West Bengal India 03532 44
+Nagercoil Tamil Nadu India 04652 17
+Vapi Gujarat India 0260 79
+Nagaon Assam India 03674 4
+Panipat Haryana India 01802 62
+Jagadhri Haryana India 09992 3
+Srikakulam Andhra Pradesh India 08942 11
+Tiruchirappalli Tamil Nadu India 04312 167
+Taluka Wankaner Gujarat India 02828 1
+Secunderabad Telangana India 04027 589
+Karaikudi Tamil Nadu India 04565 2
+Cuttack Odisha India 06712 37
+Walajapet Tamil Nadu India 04172 1
+Karaikal Puducherry India 04368 6
+Mapusa Goa India 08322 15
+VIHAR Delhi India 09717 1
+Moga Punjab India 01636 7
+Neemuch Madhya Pradesh India 07420 5
+Malerkotla Punjab India 08437 3
+Sundargarh Odisha India 06612 6
+Gandhinagar Gujarat India 07923 152
+Chhatarpur Madhya Pradesh India 07898 1
+RAJKO Gujarat India 02812 1
+Wadhwan Gujarat India 02752 2
+Telangana Telangana India 04023 2
+Andhra Pradesh Andhra Pradesh India 09963 4
+Gurdaspur Punjab India 01862 13
+Pauri Garhwal Uttarakhand India 01346 4
+Ahmednagar Maharashtra India 02412 65
+Porbandar Gujarat India 02862 19
+Amritsar Punjab India 01832 135
+Parbhani Maharashtra India 09423 1
+Saran Bihar India 09065 1
+Viluppuram Tamil Nadu India 04146 6
+Solapur Maharashtra India 02172 37
+Coimbatore Tamil Nadu India 0422 1443
+Giridih Jharkhand India 06532 5
+Nawanshahr Punjab India 01823 3
+Chamoli Uttarakhand India 01204 2
+Kutch Gujarat India 02836 40
+Kalyani West Bengal India 03325 2
+Vitthal Udyognagar Gujarat India 02692 4
+Simbhaoli Uttar Pradesh India 05731 1
+Akola Maharashtra India 07242 7
+Kalol Gujarat India 02764 18
+Morena Madhya Pradesh India 07532 2
+Mahabubnagar Telangana India 09440 17
+Jammu Jammu & Kashmir India 01912 39
+West Tripura Tripura India 09206 1
+NAVELIM Goa India 09870 1
+SHIV Rajasthan India 09929 1
+Kurukshetra Haryana India 01744 6
+Palladam Tamil Nadu India 09842 1
+Dhule Maharashtra India 02562 15
+Bhubaneswar Odisha India 06742 284
+Chandigarh Chandigarh India 01722 694
+Salcette Goa India 08326 7
+Shimoga City Karnataka India 08182 1
+Bhind Madhya Pradesh India 07534 1
+RAJMAHAL null India 02652 1
+Aluva Kerala India 04842 14
+Krishna Andhra Pradesh India 08662 93
+Ponda Goa India 08322 17
+Petlad Gujarat India 02697 3
+Seoni Madhya Pradesh India 09993 1
+Kannauj Uttar Pradesh India 08960 2
+PIMPRI PUNE Maharashtra India 08022 1
+Panchkula Haryana India 01722 54
+Mussoorie Uttarakhand India 01352 1
+Jyotiba Phule Nagar Uttar Pradesh India 09759 1
+Davanagere Karnataka India 08192 12
+Murshidabad West Bengal India 03482 11
+Jamnagar Gujarat India 02882 286
+Muzaffarnagar Uttar Pradesh India 01312 16
+Dakshina Kannada Karnataka India 08242 27
+Durg Chhattisgarh India 07884 20
+Dhoraji Gujarat India 08002 2
+Shimoga Karnataka India 08182 9
+Jamshedpur Bihar India 0657 98
+Tamil Nadu Tamil Nadu India 04562 3
+Palwal Haryana India 01275 6
+Sulur Tamil Nadu India 04222 1
+ALIGARH DAIRY FARM Uttar Pradesh India 08042 1
+KHM Tamil Nadu India 09841 1
+Kashipur Uttar Pradesh India 05947 3
+Wardha Maharashtra India 07152 6
+Thiruvananthapuram Kerala India 0471 490
+Ludhiana Punjab India 01612 713
+Dalhousie Himachal Pradesh India 09318 1
+Nilgiris Tamil Nadu India 04232 20
+Gurgaon Haryana India 01244 2334
+Pratapgarh Uttar Pradesh India 05342 1
+Basti Uttar Pradesh India 09838 1
+Palakkad Kerala India 04912 54
+DEBINAGAR West Bengal India 03561 1
+Bankura West Bengal India 03242 2
+Chhindwara Madhya Pradesh India 07162 6
+Kolkata West Bengal India 033 3684
+AHMEDABAD/ GANDHI NAGAR Gujarat India 07922 1
+Surat Gujarat India 0261 884
+TRISSUR Kerala India 04872 1
+Kovvur Andhra Pradesh India 08813 1
+VYTILLA Kerala India 04842 1
+Fatehpur Uttar Pradesh India 05180 3
+Deogarh Odisha India 09835 1
+Lalitpur Uttar Pradesh India 05176 1
+Umargam Gujarat India 02602 2
+Raigarh Chhattisgarh India 07762 7
+Medak Telangana India 08455 47
+Pune Maharashtra India 020 5632
+FATORDA Goa India 08322 1
+Dhanbad Jharkhand India 03262 16
+Tirupati Andhra Pradesh India 0877 29
+Bhiwadi Rajasthan India 01493 18
+Sultanpur Uttar Pradesh India 05362 2
+Kalady Kerala India 04842 1
+Wayanad Kerala India 04936 12
+Gujarat Gujarat India 07928 10
+Itanagar Arunachal Pradesh India 03602 2
+Palayam Puducherry India 09037 1
+PORT OKHA Gujarat India 09328 1
+Visnagar Gujarat India 02765 1
+Manipal Karnataka India 08202 14
+Dharwad Karnataka India 08362 47
+Adilabad Telangana India 08732 12
+Jhunjhunu Rajasthan India 01596 10
+Pudukkottai Tamil Nadu India 04322 8
+Bathinda Punjab India 01642 21
+Kota Rajasthan India 0744 72
+Chitradurga Karnataka India 08192 7
+Mandi Gobindgarh Punjab India 01765 18
+Sihor Gujarat India 02846 2
+Jalor Rajasthan India 02973 4
+Bangalore Rural Karnataka India 08045 4
+Tinsukia Assam India 07399 5
+Kodaikanal Tamil Nadu India 04542 1
+Begumpur Hyderabad India 04027 2
+Bhagalpur Bihar India 0641 3
+Deesa Gujarat India 02744 2
+Rewari Haryana India 01284 21
+Sangrur Punjab India 01672 19
+Nalbari Assam India 03624 2
+Bijapur Karnataka India 08352 11
+PUN Maharashtra India 08975 1
+Navsari Gujarat India 02637 29
+Bokaro Jharkhand India 09334 6
+Nayagarh Odisha India 06753 1
+ABHAYAPURI Odisha India 06752 3
+Gummidipoondi Tamil Nadu India 04427 3
+Jalpaiguri West Bengal India 03561 5
+Sawai Madhopur Rajasthan India 07462 4
+Fatehabad Haryana India 01692 2
+BANGALORE URBAN Karnataka India 08023 2
+Silchar Assam India 03842 1
+Raebareli Uttar Pradesh India 05352 3
+Karauli Rajasthan India 02228 2
+Ganganagar Rajasthan India 01542 6
+Ballabgarh Haryana India 01292 10
+Almora Uttarakhand India 09411 3
+Cachar Assam India 03842 1
+Abohar Punjab India 01634 2
+Shivamogga Karnataka India 08182 1
+Jamalpur Punjab India 01826 1
+Dharmapuri Tamil Nadu India 04344 6
+Madhubani Bihar India 09888 4
+Mysore Karnataka India 0821 274
+North Goa Goa India 09326 1
+Sulthan Bathery Kerala India 04936 2
+Unnao Uttar Pradesh India 05152 5
+Kaithal Haryana India 01743 7
+Tumkur Karnataka India 0816 33
+NSK Maharashtra India 02532 1
+Banaskantha Gujarat India 08023 4
+Barmer Rajasthan India 02982 8
+Malappuram Kerala India 04832 27
+Mainpuri Uttar Pradesh India 09927 1
+Ajmer Rajasthan India 01452 68
+TIRUCHENGODE Tamil Nadu India 04288 1
+Rampur Uttar Pradesh India 05952 18
+Nagpur Maharashtra India 0712 611
+LONAVALLA Maharashtra India 02227 1
+Jhajjar Haryana India 01276 7
+Puri Odisha India 06742 53
+Kanakpura Karnataka India 08028 1
+Faridabad Haryana India 01294 681
+Guntur Andhra Pradesh India 0863 124
+Keonjhar Odisha India 06767 12
+Tehri Garhwal Uttarakhand India 01352 10
+Ferozepur Punjab India 01632 4
+Gulbarga Karnataka India 08472 19
+Morbi Gujarat India 02822 59
+Satna Madhya Pradesh India 07672 7
+Chaibasa Jharkhand India 06582 1
+Sangli Maharashtra India 02332 62
+Surendranagar Gujarat India 02752 33
+Chamba Himachal Pradesh India 09816 4
+Hassan Karnataka India 08172 8
+Changodar Gujarat India 08980 1
+Buldhana Maharashtra India 07265 1
+Palanpur Gujarat India 02742 13
+Mandi Himachal Pradesh India 01907 8
+Kannur Kerala India 0497 59
+Cooch Behar West Bengal India 09800 3
+Banswara Rajasthan India 02962 6
+Jorhat Assam India 03762 7
+Raisen Madhya Pradesh India 07480 7
+Jagatsinghapur Odisha India 09437 3
+West Bengal West Bengal India 09831 1
+Maharashtra Maharashtra India 02241 8
+BHAYANDER Maharashtra India 09322 1
+Kapurthala Punjab India 01822 9
+Amroha Uttar Pradesh India 05912 3
+Guna Madhya Pradesh India 07541 1
+Sriperumbudur Tamil Nadu India 04467 10
+Sikar Rajasthan India 01572 14
+Patan Gujarat India 09824 3
+Jalandhar Punjab India 01812 272
+Pali Rajasthan India 02932 10
+Hathras Uttar Pradesh India 05772 1
+Hapur Uttar Pradesh India 08938 3
+Jind Haryana India 01686 2
+Dehradun Uttarakhand India 0135 137
+Kollam Kerala India 0474 59
+Tezpur Assam India 08486 2
+Bhilai Madhya Pradesh India 07884 31
+Bharuch Gujarat India 02642 76
+Gonda Uttar Pradesh India 05262 1
+Barnala Punjab India 09356 1
+Bilaspur Chhattisgarh India 07752 19
+Kozhikode Kerala India 0495 217
+PONDY Puducherry India 09843 1
+AMAR NAGAR Haryana India 01294 1
+Nainital Uttarakhand India 05942 22
+Nanded Maharashtra India 02462 14
+Bahadurgarh Haryana India 01276 14
+Uttara Kannada Karnataka India 09448 8
+Deoria Uttar Pradesh India 09005 2
+Rajnandgaon Chhattisgarh India 07744 8
+Krishnagiri Tamil Nadu India 09980 8
+THRISSUR.. Kerala India 04872 3
+Visakhapatnam Andhra Pradesh India 08912 429
+Beawar Rajasthan India 01462 4
+Bhiwani Haryana India 01664 10
+Patiala Punjab India 0175 79
+FEROZPUR Punjab India 09463 1
+Gangtok Sikkim India 03592 14
+MUM Maharashtra India 09987 2
+Chitrakoot Uttar Pradesh India 07670 2
+Udham Singh Nagar Uttarakhand India 05944 10
+Batala Punjab India 01871 9
+Karimganj Assam India 09435 2
+Halol Gujarat India 02676 6
+LILUAH West Bengal India 03326 1
+Aligarh Uttar Pradesh India 05712 42
+Katni Madhya Pradesh India 07622 7
+Tarn Taran Punjab India 09814 1
+Kawardha Chhattisgarh India 07741 1
+Phillaur Punjab India 01826 2
+Bellary Karnataka India 08392 13
+PODILI Andhra Pradesh India 09948 1
+Rangareddy Telangana India 09849 164
+Shahdol Madhya Pradesh India 07652 1
+Ujjain Madhya Pradesh India 0734 18
+Katihar Bihar India 06452 2
+CBE Tamil Nadu India 09994 2
+Chikmagalur Karnataka India 08262 3
+Kanpur Uttar Pradesh India 0512 328
+Kanyakumari Tamil Nadu India 04652 25
+Prakasam Andhra Pradesh India 08592 30
+Durgapur West Bengal India 03432 22
+Vizianagaram Andhra Pradesh India 08922 14
+GURGAON HR PH NO x Haryana India 09810 1
+COLVA Goa India 08322 1
+Dhrangadhra Gujarat India 02754 1
+Malda West Bengal India 03512 4
+Koppal Karnataka India 08533 1
+Hosur Tamil Nadu India 04344 49
+P B B AURANGABAD Maharashtra India 02402 1
+Satara Maharashtra India 02162 63
+Munger Bihar India 02228 2
+Malegaon Maharashtra India 07385 4
+Silvassa Dadra & Nagar Haveli India 02602 8
+Hissar Haryana India 01662 30
+Ernakulam Kerala India 04842 392
+Kodagu Karnataka India 08276 2
+Garhwal Uttarakhand India 01368 1
+CARNZALEM GOA Maharashtra India 08322 1
+Nagaur Rajasthan India 08890 1
+Ongole Andhra Pradesh India 09246 10
+Midnapore West Bengal India 03222 15
+Rajahmundry Andhra Pradesh India 0883 18
+Uttar Pradesh Uttar Pradesh India 01204 2
+Dhar Madhya Pradesh India 07292 7
+BARSHI DIST SO Meghalaya India 02184 1
+Kathua Jammu & Kashmir India 02652 1
